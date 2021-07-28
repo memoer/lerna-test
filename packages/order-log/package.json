@@ -1,6 +1,6 @@
 {
   "name": "order-log",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "> TODO: description",
   "author": "memoer <hanjn2842@naver.com>",
   "homepage": "",
@@ -17,7 +17,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "order-base": "^1.0.1"
+    "order-base": "^1.0.2"
   },
   "devDependencies": {
     "chalk": "^4.1.1"
